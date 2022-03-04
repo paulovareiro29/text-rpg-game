@@ -2,12 +2,12 @@
 A text based RPG game made for a school project.
 
 ## Features
-..* Player can choose between 3 classes: Warrior, Assassin, Mage
-..* Player can see the character information
-..* Integrated shop with the option to heal and/or refill potions.
-..* Upgrades that can be bought at the shop. Upgrades unlock at different levels.
-..* Anyone can add new levels and monsters from the config files
-..* Player can save/load progress.
+⋅⋅* Player can choose between 3 classes: Warrior, Assassin, Mage
+⋅⋅* Player can see the character information
+⋅⋅* Integrated shop with the option to heal and/or refill potions.
+⋅⋅* Upgrades that can be bought at the shop. Upgrades unlock at different levels.
+⋅⋅* Anyone can add new levels and monsters from the config files
+⋅⋅* Player can save/load progress.
 
 ## Images
 Main screen
